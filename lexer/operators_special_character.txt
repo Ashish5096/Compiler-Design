@@ -1,0 +1,28 @@
+=
++=
+-=
+*=
+/=
+%=
+&=
+^=
++
+-
+* - multiplication
+/
+%
+$ - power operator
+>
+<
+>=
+<=
+==
+!=
+&&
+||
+!
+|
+& - bitwise and
+^
+& - address of operator
+* - pointer

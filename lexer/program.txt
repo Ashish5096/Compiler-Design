@@ -1,0 +1,8 @@
+int fun(int a, int b)
+{
+	int a = x + b;
+	char c = 'x';
+	char arr[] = "String";
+	float x = 12.20;
+	return 0;
+}
